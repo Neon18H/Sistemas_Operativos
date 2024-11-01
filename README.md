@@ -3,13 +3,13 @@ Notas de mi clase de sistemas operativos.
 Comandos Basicos Guias
 
 - Navegación en el Sistema de Archivos
- pwd: Muestra el directorio de trabajo actual.
+-  pwd: Muestra el directorio de trabajo actual.
 
-ls: Lista los archivos y directorios en el directorio actual.
+- ls: Lista los archivos y directorios en el directorio actual.
 
-ls -l: Muestra detalles de los archivos (permisos, tamaño, etc.).
-ls -a: Muestra todos los archivos, incluidos los ocultos.
-cd : Cambia al directorio especificado.
+- ls -l: Muestra detalles de los archivos (permisos, tamaño, etc.).
+- ls -a: Muestra todos los archivos, incluidos los ocultos.
+- cd : Cambia al directorio especificado.
 
 cd ..: Regresa al directorio padre.
 cd ~: Cambia al directorio home del usuario.
